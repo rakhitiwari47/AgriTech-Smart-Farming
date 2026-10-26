@@ -1,0 +1,15 @@
+AGRI-TECH PROJECT — START HERE
+
+1. Install Node.js (18 or newer) and MongoDB, or create a MongoDB Atlas database.
+2. Extract this folder somewhere easy, such as Desktop.
+3. Open the folder in VS Code.
+4. Follow README.md to configure server/.env.
+5. In a terminal: cd server, npm install, npm run dev
+6. In another terminal: cd client, npm install, npm start
+7. Browser opens http://localhost:3000.
+
+IMPORTANT:
+- This is a complete runnable student project starter, not a deployed live website.
+- You must add your own real GitHub and demo URLs to SkillWallet after uploading/deploying.
+- Never upload server/.env or API keys to GitHub.
+- Read docs/PROJECT_ARCHITECTURE.md for architecture, ER diagram, user flow, and MVC explanation.
